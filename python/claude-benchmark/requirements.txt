@@ -1,0 +1,19 @@
+# Core
+torch>=2.4.0
+transformers>=4.45.0
+accelerate>=0.34.0
+
+# LoRA / QLoRA
+peft>=0.12.0
+bitsandbytes>=0.43.0
+
+# Data
+datasets>=2.20.0
+tiktoken>=0.7.0
+
+# Monitoring
+tensorboard>=2.17.0
+
+# Utilities
+tqdm>=4.66.0
+numpy>=1.26.0

@@ -1,0 +1,8 @@
+# Claude Benchmark - large data files
+python/claude-benchmark/data/*.txt
+python/claude-benchmark/checkpoints/*.pt
+python/claude-benchmark/logs/
+
+# Python cache
+__pycache__/
+*.pyc
